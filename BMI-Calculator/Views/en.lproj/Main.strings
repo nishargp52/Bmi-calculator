@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "5dY-Gg-DjA"; */
+"5dY-Gg-DjA.text" = "Height";
+
+/* Class = "UIButton"; normalTitle = "CALCULATE"; ObjectID = "7AI-9r-7OW"; */
+"7AI-9r-7OW.normalTitle" = "CALCULATE";
+
+/* Class = "UILabel"; text = "YOUR RESULT"; ObjectID = "M2C-4m-RrR"; */
+"M2C-4m-RrR.text" = "YOUR RESULT";
+
+/* Class = "UISegmentedControl"; PuV-jZ-OLT.segmentTitles[0] = "KG"; ObjectID = "PuV-jZ-OLT"; */
+"PuV-jZ-OLT.segmentTitles[0]" = "KG";
+
+/* Class = "UISegmentedControl"; PuV-jZ-OLT.segmentTitles[1] = "LBs"; ObjectID = "PuV-jZ-OLT"; */
+"PuV-jZ-OLT.segmentTitles[1]" = "LBs";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "R0j-zD-YMj"; */
+"R0j-zD-YMj.text" = "Weight";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "YIh-Wr-wDN"; */
+"YIh-Wr-wDN.text" = "100";
+
+/* Class = "UILabel"; text = "CALCULATE YOUR BMI"; ObjectID = "dFZ-ze-tit"; */
+"dFZ-ze-tit.text" = "CALCULATE YOUR BMI";
+
+/* Class = "UISegmentedControl"; ftf-LH-wid.segmentTitles[0] = "M"; ObjectID = "ftf-LH-wid"; */
+"ftf-LH-wid.segmentTitles[0]" = "M";
+
+/* Class = "UISegmentedControl"; ftf-LH-wid.segmentTitles[1] = "CM"; ObjectID = "ftf-LH-wid"; */
+"ftf-LH-wid.segmentTitles[1]" = "CM";
+
+/* Class = "UILabel"; text = "19.5"; ObjectID = "hWo-gc-8p7"; */
+"hWo-gc-8p7.text" = "19.5";
+
+/* Class = "UIButton"; normalTitle = "RECALCULATE"; ObjectID = "ibP-cv-4yW"; */
+"ibP-cv-4yW.normalTitle" = "RECALCULATE";
+
+/* Class = "UILabel"; text = "1.5"; ObjectID = "onR-F4-ZbV"; */
+"onR-F4-ZbV.text" = "1.5";
+
+/* Class = "UILabel"; text = "EAT SOME MORE SNACKS!"; ObjectID = "wL7-Mk-scd"; */
+"wL7-Mk-scd.text" = "EAT SOME MORE SNACKS!";
